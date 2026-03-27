@@ -1,22 +1,34 @@
-# Página de Receita - Cupcake de Café
+# Página de Receita
 
-Uma página simples com uma receita de cupcake de café com chantilly.
+**Página única** de receita de cupcake de café com chantilly, desenvolvida com HTML5 e CSS3.
+
+## 🎯 Objetivo
+
+Projeto de estudo para praticar:
+- HTML5 semântico
+- CSS3 com estilização
+
+## Estrutura da Página
+
+- **Imagem Principal** no topo da página
+- **Seção Sobre** com título e descrição da receita
+- **Seção Ingredientes** com lista completa
+- **Seção Preparação** com passo a passo detalhado
+- **Footer** com créditos do desenvolvedor
 
 ## Tecnologias
+- **HTML5** - Estrutura semântica
+- **CSS3** - Estilização e layout
 
-- HTML5
-- CSS3
-
-## Arquivos
+## Estrutura do Projeto
 
 ```
 pagina-receita/
-├── index.html      # Página principal
-├── style.css       # Estilos
-├── assets/         # Imagens
-└── README.md       # Este arquivo
+├── assets/
+│   ├── main-image.jpg  # Imagem principal do cupcake
+│   ├── bg-image.png    # Imagem de fundo
+│   └── heart.svg       # Ícone do coração
+├── index.html          # Página principal
+├── style.css           # Estilos da página
+└── README.md           # Este arquivo
 ```
-
-## Autor
-
-Desenvolvido por Kevin Luan
