@@ -1,8 +1,12 @@
-<img width="800" height="677" alt="preview-pagina-cupcake (1)" src="https://github.com/user-attachments/assets/ad6fd82d-0570-468d-8c3b-4a57c2111356" />
+<div align="center">
 
 # Página de Receita
 
+<img width="800" alt="receita-cupcake-preview" src="https://github.com/user-attachments/assets/b924a4e6-e39f-4f75-b299-d48f80b8863f" />
+
 **Página única** de receita de cupcake de café com chantilly, desenvolvida com HTML5 e CSS3.
+
+</div>
 
 ## 🎯 Objetivo
 
